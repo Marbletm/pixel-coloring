@@ -1,0 +1,23 @@
+{
+  "name": "pixel-coloring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marbletm/pixel-coloring.git"
+  },
+  "author": "Noah Visser",
+  "license": "GPL-3.0 License",
+  "bugs": {
+    "url": "https://github.com/Marbletm/pixel-coloring/issues"
+  },
+  "homepage": "https://github.com/Marbletm/pixel-coloring#readme",
+  "devDependencies": {
+    "electron": "^12.0.5",
+    "eslint": "^7.25.0"
+  }
+}
